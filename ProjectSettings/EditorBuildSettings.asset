@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/PersistentScene.unity
+    guid: 612b3e1d29273254285bbd7c099e7220
+  - enabled: 1
+    path: Assets/Scenes/WestA.unity
+    guid: ed0f19c85750a8d438539b63107bc5e3
+  - enabled: 1
+    path: Assets/Scenes/CabinA.unity
+    guid: 95b4e5a02662c3d4d826885b5f92fde0
+  - enabled: 1
+    path: Assets/Scenes/WestB.unity
+    guid: a58e9ff75bb87fe4a9b5c6e9012f81dc
+  - enabled: 1
+    path: Assets/Scenes/WestC.unity
+    guid: 0eeb30645485d3746b85e9655bc35779
+  - enabled: 1
+    path: Assets/Scenes/Center.unity
+    guid: 6b3706591a2c7fc4cb4966e41b3f8e90
+  - enabled: 1
+    path: Assets/Scenes/EastA.unity
+    guid: a214c59f35b7e65429ce9d24b838a6e8
+  - enabled: 1
+    path: Assets/Scenes/EastB.unity
+    guid: 0a075f1c8f33dcf49908ad2e13f65c11
+  - enabled: 1
+    path: Assets/Scenes/SouthA.unity
+    guid: 9d4bfe8a3f5b9f44db25a6b1942db8fd
+  - enabled: 1
+    path: Assets/Scenes/SouthB.unity
+    guid: f6c48be93b9d8554ca45ce3f7593ede2
+  - enabled: 1
+    path: Assets/Scenes/SouthC.unity
+    guid: 0d55791cb914d5547816c350d6582f2f
+  - enabled: 1
+    path: Assets/Scenes/SouthD.unity
+    guid: 1b53326b3431ac8469cea2942015ac90
+  - enabled: 1
+    path: Assets/Scenes/NorthA.unity
+    guid: e26761713abfdc8448c0ab5601146108
+  - enabled: 1
+    path: Assets/Scenes/Boss.unity
+    guid: 07caf2a90e632e441af1fcd1a5e593e7
+  m_configObjects:
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 8f25d3bc1d2e3664d92a49f45fc506af, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 11a3421eb3cb451479bf914e142ef44e, type: 2}
