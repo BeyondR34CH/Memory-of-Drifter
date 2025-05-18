@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75c2c6ae2f79f6a448899f538507ff34, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  moveSpeed: 120
+  maxHealth: 5
+  bloodColor: {r: 1, g: 0, b: 0.26666668, a: 1}
+  viewRadius: 8
+  dashForce: 90
+  dashBlank: 0.2
+  dashMaxCount: 0
+  continueDashBlank: 0.75
+  attackDamage: 1
+  attackStep: 50
+  attackBlank: 0.2
+  attackMaxCount: 3
+  continueAttackBlank: 0.75
+  repelForce: 60
+  attackRadius: 2
+  attackAngle: 120
+  spellBlank: 0
+  rangeSpellBlank: 0
+  defenceDerate: 0
+  defenceStep: 25
+  defenceBlank: 0.5
+  prepareAttackRadius: 0
